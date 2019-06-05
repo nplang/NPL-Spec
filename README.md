@@ -1,8 +1,7 @@
 # Introduction to NPLSpec
 
-NPL is a powerful, open, high level language for describing and programming switch pipelines.
+NPL is a powerful, open, high level language designed to express the behavior of high performance, feature-rich networking platforms. 
 
 ## NPLSpec
-The NPLSpec repository contains the NPL specification and other documentation.
-
-Stay tuned for details.
+The NPL-Spec repository contains the NPL specification. 
+The current version (as of June 11, 2019) of the specification 1.3 
