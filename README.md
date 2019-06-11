@@ -5,3 +5,7 @@ NPL is a powerful, open, high level language designed to express the behavior of
 ## NPLSpec
 The NPL-Spec repository contains the NPL specification. 
 The current version is 1.3. 
+
+# Feedback or Questions
+Feedback or questions should be sent to npl-feedback.pdl@broadcom.com.
+
